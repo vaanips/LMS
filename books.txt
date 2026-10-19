@@ -1,0 +1,10 @@
+101|Data Structures|Seymour Lipschutz|5|5
+102|Object Oriented Programming|Robert Lafore|4|4
+103|C Programming|Dennis Ritchie|6|6
+104|Database Management Systems|Raghu Ramakrishnan|3|3
+105|Computer Networks|Andrew Tanenbaum|4|4
+106|Operating Systems|Galvin|5|5
+107|Software Engineering|Ian Sommerville|3|3
+108|Java Programming|Herbert Schildt|4|4
+109|Computer Organization|Morris Mano|2|2
+110|Web Development|Jon Duckett|5|5
