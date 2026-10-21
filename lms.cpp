@@ -194,6 +194,11 @@ public:
         return false;
     }
 
+
+
+
+
+    
     void registerUser()
     {
         Student s;
@@ -344,6 +349,10 @@ public:
         saveBooks();
     }
 
+
+
+
+    // ok
     void displayBooks()
     {
         if (bookCount == 0)
@@ -803,6 +812,9 @@ public:
         } while (choice != 0);
     }
 
+
+
+    // ok
     void menu()
     {
         int choice;
@@ -878,10 +890,18 @@ public:
     }
 };
 
+
 int main()
 {
-    Library library;
-    library.menu();
+    try
+    {
+        Library library;
+        library.menu();
+    }
+    catch (...)
+    {
+        cout << "Error occurred!" << endl;
+    }
 
     return 0;
 }
